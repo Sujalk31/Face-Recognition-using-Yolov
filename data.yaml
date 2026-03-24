@@ -1,0 +1,9 @@
+path: /Users/coding/ResoluteAI Tasks/Face Recognition Using YoloV/Dataset
+
+train: /Users/coding/ResoluteAI Tasks/Face Recognition Using YoloV/Dataset/images/train
+val: /Users/coding/ResoluteAI Tasks/Face Recognition Using YoloV/Dataset/images/val
+
+nc: 8
+
+
+names: ['cat','Jethalal','Daya','Bhide','MAdhvi',Madhvi','Babita','Iyer']
